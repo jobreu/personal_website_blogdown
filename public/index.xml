@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Breuer on Johannes Breuer</title>
+    <link>/</link>
+    <description>Recent content in Johannes Breuer on Johannes Breuer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example Page</title>
+      <link>/tutorial/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tutorial/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A practical guide for transparency in psychological science</title>
+      <link>/publication/klein-practical-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/klein-practical-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blame the Players, Don’t Blame the Games: Why We Should Worry Less About Sexist Video Game Content and Focus More on Interactions Between Players</title>
+      <link>/publication/breuer-blame-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-blame-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Psychology and Digital Games: Digital Hunter-Gatherers</title>
+      <link>/publication/breuer-evolutionary-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-evolutionary-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grenzen von &#34;Serious Games for Health&#34;</title>
+      <link>/publication/breuer-grenzen-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-grenzen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Once upon a game: Exploring video game nostalgia and its impact on well-being</title>
+      <link>/publication/wulf-once-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/wulf-once-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Playing for the thrill and skill. Quiz games as means for mood and competence repair</title>
+      <link>/publication/koban-playing-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/koban-playing-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Games as Time Machines: Video Game Nostalgia and the Success of Retro Gaming</title>
+      <link>/publication/wulf-video-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/wulf-video-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why an Evolutionary Psychological Approach to Digital Games?</title>
+      <link>/publication/lange-1-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lange-1-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You Learn What You Play</title>
+      <link>/publication/breuer-13-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-13-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture &#43; 1 – Digitale Spiele und Kulturelle Bildung</title>
+      <link>/publication/breuer-culture-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-culture-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frustration–Aggression Theory</title>
+      <link>/publication/breuer-frustrationaggression-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-frustrationaggression-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hate Speech in Online Games</title>
+      <link>/publication/breuer-hate-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-hate-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

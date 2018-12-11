@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Johannes Breuer</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Johannes Breuer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(In) formative play: the effects of digital games on creativity and problem-solving skills</title>
+      <link>/publication/breuer-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In the army now-Narrative elements and realism in military first-person shooters.</title>
+      <link>/publication/breuer-army-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-army-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>War Games: Analyzing the relationship between militaristic attitudes and the use of military-themed digital games</title>
+      <link>/publication/festl-war-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/festl-war-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

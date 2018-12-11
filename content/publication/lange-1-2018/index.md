@@ -1,0 +1,10 @@
++++
+title = "Why an Evolutionary Psychological Approach to Digital Games?"
+date = 2018-01-01
+authors = ["Benjamin P Lange", "Johannes Breuer", "Benny Liebold", "Daniel Pietschmann"]
+publication_types = ["2"]
+abstract = ""
+selected = false
+publication = "*Evolutionary Psychology and Digital Games: Digital Hunter-Gatherers*"
++++
+
