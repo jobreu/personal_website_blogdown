@@ -1,3 +1,7 @@
+.Rproj.user
 .Rhistory
 .RData
-.Rproj.user
+.Ruserdata
+Thumbs.db
+website.Rproj
+public/
