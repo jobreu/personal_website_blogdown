@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Senior researcher"
-  company = "GESIS - Leibniz-Institute for the Social Sciences"
+  company = "GESIS - Leibniz Institute for the Social Sciences"
   company_url = ""
   location = "Cologne"
   date_start = "2017-04-01"
