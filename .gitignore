@@ -3,5 +3,5 @@
 .RData
 .Ruserdata
 Thumbs.db
-website.Rproj
+*.Rproj
 public/
