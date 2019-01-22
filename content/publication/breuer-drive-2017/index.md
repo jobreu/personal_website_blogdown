@@ -6,5 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "*Journal of Media Psychology*"
+url_preprint = "https://psyarxiv.com/6mmra/"
+url_dataset = "https://osf.io/kad2f/"
 +++
 
