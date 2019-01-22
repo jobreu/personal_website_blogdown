@@ -19,4 +19,4 @@ Past workshops:
 
 Upcoming workshops:
 
-- [Data Wrangling & Exploration with the Tidyverse in R](https://training.gesis.org/?site=pDetails&child=full&pID=0x33C195D77A9F450183D79276838B4E73&lang=en_US) (together with Thomas Ebel), GESIS Mannheim, May 15-16, 2019
+- [Data Wrangling & Exploration with the Tidyverse in R](https://training.gesis.org/?site=pDetails&child=full&pID=0x33C195D77A9F450183D79276838B4E73&lang=en_US) (together with Thomas Ebel and Stefan Müller), GESIS Mannheim, May 15-16, 2019

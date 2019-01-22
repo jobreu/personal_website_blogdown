@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "*Cyberpsychology, Behavior, and Social Networking*"
+url_pdf = "https://www.ssoar.info/ssoar/bitstream/handle/document/59031/ssoar-cbsn-2015-4-breuer_et_al-Sexist_Games__Sexist_Gamers.pdf?sequence=2"
 +++
 

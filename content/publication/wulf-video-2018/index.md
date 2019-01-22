@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "*Media and Communication*"
+url_pdf = "https://www.cogitatiopress.com/mediaandcommunication/article/view/1317/1317"
 +++
 
