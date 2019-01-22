@@ -6,5 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "*Collabra: Psychology*"
+url_pdf = "https://www.collabra.org/articles/10.1525/collabra.158/galley/174/download/"
+url_preprint = "https://psyarxiv.com/rtygm/"
 +++
 
