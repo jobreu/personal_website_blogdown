@@ -5,6 +5,6 @@ authors = ["Johannes Breuer"]
 publication_types = ["6"]
 abstract = ""
 selected = false
-publication = "*Gefangen im Flow? Ästhetik und dispositive Strukturen von Computerspielen.*"
+publication = "*Gefangen im Flow? Ästhetik und dispositive Strukturen von Computerspielen*"
 +++
 

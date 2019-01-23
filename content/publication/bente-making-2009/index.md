@@ -1,7 +1,7 @@
 +++
 title = "Making the implicit explicit. Embedded measurement in serious games"
 date = 2009-01-01
-authors = ["G Bente", "J Breuer"]
+authors = ["Gary Bente", "Johannes Breuer"]
 publication_types = ["6"]
 abstract = ""
 selected = false
