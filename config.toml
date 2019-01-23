@@ -283,7 +283,7 @@ enableGitInfo = false
     
   [[params.social]]
     icon = "osf"
-    icon_pack = "fab"
+    icon_pack = "ai"
     link = "https://osf.io/gm4ai/"
     
   [[params.social]]
