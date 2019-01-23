@@ -6,6 +6,6 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "*Psychology of Popular Media Culture*"
-pdf_url = "https://www.ssoar.info/ssoar/bitstream/handle/document/59021/ssoar-ppm-2015-4-breuer_et_al-Violent_video_games_and_physical.pdf?sequence=2"
+url_pdf = "https://www.ssoar.info/ssoar/bitstream/handle/document/59021/ssoar-ppm-2015-4-breuer_et_al-Violent_video_games_and_physical.pdf?sequence=2"
 +++
 

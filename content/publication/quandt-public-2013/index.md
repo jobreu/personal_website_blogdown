@@ -1,5 +1,5 @@
 +++
-title = "Public Awareness und Lernnutzen durch Anno 2070 & Co. Von den Wirkungen digitaler Spiele auf das Umweltbewusstsein."
+title = "Public Awareness und Lernnutzen durch Anno 2070 & Co. Von den Wirkungen digitaler Spiele auf das Umweltbewusstsein"
 date = 2013-01-01
 authors = ["Thorsten Quandt", "Johannes Breuer"]
 publication_types = ["6"]

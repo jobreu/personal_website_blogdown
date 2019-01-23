@@ -1,7 +1,7 @@
 +++
 title = "Video Games as Time Machines: Video Game Nostalgia and the Success of Retro Gaming"
 date = 2018-01-01
-authors = ["Tim Wulf", "Nicholas D. Bowman", "Diana Rieger", "John A. Velez"]
+authors = ["Tim Wulf", "Nicholas D. Bowman", "Diana Rieger", "John A. Velez", "Johannes Breuer"]
 publication_types = ["2"]
 abstract = ""
 selected = false

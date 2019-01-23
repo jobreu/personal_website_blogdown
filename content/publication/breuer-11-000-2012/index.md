@@ -5,6 +5,6 @@ authors = ["Johannes Breuer", "Jessica Trixa"]
 publication_types = ["6"]
 abstract = ""
 selected = false
-publication = "*Gesellschaftsspiel Futextbackslashs sball*"
+publication = "*Gesellschaftsspiel Fußball*"
 +++
 

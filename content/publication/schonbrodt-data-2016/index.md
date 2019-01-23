@@ -6,5 +6,6 @@ publication_types = ["5"]
 abstract = ""
 selected = false
 publication = ""
+url_pdf = "http://www.dfg.de/download/pdf/foerderung/antragstellung/forschungsdaten/empfehlungen_forschungsdaten_psychologie_en.pdf"
 +++
 
