@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "*Media Psychology*"
+url_dataset = "https://dbk.gesis.org/dbksearch/sdesc2.asp?db=e&no=5246"
 +++
 

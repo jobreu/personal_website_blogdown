@@ -7,5 +7,6 @@ abstract = ""
 selected = false
 publication = "*Journal of Media Psychology*"
 url_pdf = "https://econtent.hogrefe.com/doi/pdf/10.1027/1864-1105/a000222"
+url_dataset = "https://www.redeftiedata.eu/"
 +++
 
