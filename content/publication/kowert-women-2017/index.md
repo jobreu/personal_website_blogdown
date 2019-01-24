@@ -5,6 +5,6 @@ authors = ["Rachel Kowert", "Johannes Breuer", "Thorsten Quandt"]
 publication_types = ["6"]
 abstract = ""
 selected = false
-publication = "*New Perspectives on the Social Aspects of Digital Gaming. Multiplayer 2.*"
+publication = "*New Perspectives on the Social Aspects of Digital Gaming. Multiplayer 2*"
 +++
 

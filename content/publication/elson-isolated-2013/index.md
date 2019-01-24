@@ -5,6 +5,6 @@ authors = ["Malte Elson", "Johannes Breuer"]
 publication_types = ["6"]
 abstract = ""
 selected = false
-publication = "*Multiplayer. The social aspects of digital gaming.*"
+publication = "*Multiplayer. The social aspects of digital gaming*"
 +++
 

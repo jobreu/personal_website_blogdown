@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "*Themenheft „Neue Medien als Arbeitsmethode in Jugendwerkstätten und Pro-Aktiv-Centren“ der Landesarbeitsgemeinschaft der Jugendsozialarbeit in Niedersachsen*"
+url_pdf = "http://nord.jugendsozialarbeit.de/fileadmin/Bilder/2016_Themenhefte/Themenheft_Neue_Medien_mittel.pdf"
 +++
 

@@ -5,6 +5,6 @@ authors = ["Thorsten Quandt", "Johannes Breuer"]
 publication_types = ["6"]
 abstract = ""
 selected = false
-publication = "*Umweltbildung. Basis für ökologisch-ökonomische Zukunftssicherung. Beiträge der Akademie für Natur- und Umweltschutz Baden-Württemberg.*"
+publication = "*Umweltbildung. Basis für ökologisch-ökonomische Zukunftssicherung. Beiträge der Akademie für Natur- und Umweltschutz Baden-Württemberg*"
 +++
 
