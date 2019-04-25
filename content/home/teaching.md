@@ -17,7 +17,7 @@ Past workshops:
 
 - Forschungsdaten selbst analysieren in R, [GESIS Data Day](https://www.gesis.org/angebot/veranstaltungen/gesis-tagungen/dataday2019/), Jan 17, 2019. Materials available via [GitHub](https://github.com/jobreu/gesis_dataday_19).
 
-- [A practical primer on transparent research workflows](https://github.com/crsh/psych-transparency-guide_workshop) (together with Frederik Aust), University of Cologne, September 4, 2018)
+- [A practical primer on transparent research workflows](https://github.com/crsh/psych-transparency-guide_workshop) (together with Frederik Aust), University of Cologne, September 4, 2018.
 
 Upcoming workshops:
 
