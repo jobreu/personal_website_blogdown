@@ -6,4 +6,5 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "*Social Science Computer Review*"
+url_pdf = "https://journals.sagepub.com/doi/pdf/10.1177/0894439319843669"
 +++
