@@ -15,10 +15,14 @@ weight = 60
 
 Past workshops:
 
-- Forschungsdaten selbst analysieren in R, [GESIS Data Day](https://www.gesis.org/angebot/veranstaltungen/gesis-tagungen/dataday2019/), Jan 17, 2019. Materials available via [GitHub](https://github.com/jobreu/gesis_dataday_19).
+- *Forschungsdaten selbst analysieren in R*, [GESIS Data Day](https://www.gesis.org/angebot/veranstaltungen/gesis-tagungen/dataday2019/), Jan 17, 2019. Materials available via [GitHub](https://github.com/jobreu/gesis_dataday_19).
 
-- [A practical primer on transparent research workflows](https://github.com/crsh/psych-transparency-guide_workshop) (together with Frederik Aust), University of Cologne, September 4, 2018.
+- [*A practical primer on transparent research workflows*](https://github.com/crsh/psych-transparency-guide_workshop) (together with Frederik Aust), ESCON 2018, Cologne, September 4, 2018.
+
+- [*Data Wrangling & Exploration with the Tidyverse in R*](https://github.com/jobreu/tidyverse-workshop-gesis-2019) (together with and Stefan Jünger and Thomas Ebel), GESIS Mannheim, May 15-16, 2019
 
 Upcoming workshops:
 
-- [Data Wrangling & Exploration with the Tidyverse in R](https://training.gesis.org/?site=pDetails&child=full&pID=0x33C195D77A9F450183D79276838B4E73&lang=en_US) (together with Thomas Ebel and Stefan Müller), GESIS Mannheim, May 15-16, 2019
+- *Developing your personal workflow for transparent & reproducible research* (together with Frederik Aust), [SIPS 2019](https://www.improvingpsych.org/SIPS2019/), Rotterdam, July 7-9, 2019.
+
+- *Working with YouTube data in the social sciences* (together with Julian Kohne and M. Rohangis Mohseni), GESIS Cologne, early 2020.  
