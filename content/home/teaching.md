@@ -23,6 +23,6 @@ weight = 60
 
 **Upcoming workshops:**
 
-- *Developing your personal workflow for transparent & reproducible research* (together with Frederik Aust), [SIPS 2019](https://www.improvingpsych.org/SIPS2019/), Rotterdam, July 7-9, 2019.
+- *Developing your personal workflow for transparent & reproducible research* (together with Frederik Aust), [SIPS 2019](https://www.improvingpsych.org/SIPS2019/), Rotterdam, July 9, 2019.
 
-- *Working with YouTube data in the social sciences* (together with Julian Kohne and M. Rohangis Mohseni), GESIS Cologne, early 2020.  
+- *Automatic sampling and analysis of YouTube data* (together with Julian Kohne and M. Rohangis Mohseni), GESIS Cologne, February 10-11, 2020.  
