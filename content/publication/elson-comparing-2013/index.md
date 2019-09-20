@@ -6,5 +6,6 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "*Psychology of Popular Media Culture*"
+url_pdf = "https://www.ssoar.info/ssoar/bitstream/handle/document/63779/ssoar-ppm-2015-2-elson_et_al-Comparing_apples_and_oranges_Evidence.pdf?sequence=2&isAllowed=y&lnkname=ssoar-ppm-2015-2-elson_et_al-Comparing_apples_and_oranges_Evidence.pdf"
 +++
 

@@ -6,6 +6,6 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "*Journal of Media Psychology: Theories, Methods, and Applications*"
-pdf_url = "https://www.ssoar.info/ssoar/bitstream/handle/document/59022/ssoar-zmp-2014-4-breuer_et_al-Tunnel_Vision_or_Desensitization_The-34.pdf?sequence=2"
+url_pdf = "https://www.ssoar.info/ssoar/bitstream/handle/document/59022/ssoar-zmp-2014-4-breuer_et_al-Tunnel_Vision_or_Desensitization_The-34.pdf?sequence=2&isAllowed=y&lnkname=ssoar-zmp-2014-4-breuer_et_al-Tunnel_Vision_or_Desensitization_The-34.pdf"
 +++
 
