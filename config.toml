@@ -290,13 +290,18 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/jobreu"
+    
+  [[params.social]]
+    icon = "figshare"
+    icon_pack = "ai"
+    link = "https://figshare.com/authors/Johannes_Breuer/7408676"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/cv_JB_July19.pdf"
+     link = "files/cv_JB_Sept19.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -330,7 +335,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
-  url = "files/cv_JB_July19.pdf"
+  url = "files/cv_JB_Sept19.pdf"
   weight = 4
 
 # Search.

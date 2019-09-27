@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Uses and effects of digital media",
+    "Learning with digital media",
     "Methods of media (effects) research",
     "Data management",
     "Computational methods",
