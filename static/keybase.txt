@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jobreu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.johannesbreuer.com
+  * I am jobreu (https://keybase.io/jobreu) on keybase.
+  * I have a public key ASApVUIgHfqhdVzcr3aXbX5uKSN-YASO5_TMWg3RaOAEeQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120295542201dfaa1755cdcaf76976d7e6e29237e60048ee7f4cc5a0dd168e004790a",
+      "host": "keybase.io",
+      "kid": "0120295542201dfaa1755cdcaf76976d7e6e29237e60048ee7f4cc5a0dd168e004790a",
+      "uid": "fefede5b18aab2d9467c684b12cde319",
+      "username": "jobreu"
+    },
+    "merkle_root": {
+      "ctime": 1571921179,
+      "hash": "ac8f63329ff980e7f445c183a22ddfc0998fa7e0604f89d9c128114bdfe08cfbf191f0327c9cfad98de1def08aa4ac2459268494f7e594eb9a7bf5f26dc6cb97",
+      "hash_meta": "3eab0c68cc9a1cdf76328b41a3114cd1194023297eb1e99cfc7d93ea3ab00247",
+      "seqno": 8364545
+    },
+    "service": {
+      "entropy": "ixM36C9GsIHIvwJO6dweNQkz",
+      "hostname": "www.johannesbreuer.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.0"
+  },
+  "ctime": 1571921209,
+  "expire_in": 504576000,
+  "prev": "7abae90ce8d6232e31820cf05612342ce21d778fd1d676bca7e58e0111e16807",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKVVCIB36oXVc3K92l21+bikjfmAEjuf0zFoN0WjgBHkKp3BheWxvYWTESpcCB8QgerrpDOjWIy4xggzwVhI0LOIdd4/R1na8p+WOARHhaAfEIGKTqJcuVZrfHnRgLjbROdrjvRE5FojDpATB2xwy6e3jAgHCo3NpZ8RABYV2zYiTc9IHFqgN4mw0BjcVXPTLHi7PUa5GEMk2Qu3MrQNITvu/xgmFTjSZ2LskBoc4ayGYMNTvppA27duMA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKgfD7h3593KMiClc5q0S9mo0q5t2W/SVC6T196pMHTSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jobreu
+
+==================================================================
