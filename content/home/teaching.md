@@ -15,13 +15,13 @@ weight = 60
 
 **Upcoming workshops:**
 
-- [*Automatic sampling and analysis of YouTube data*](https://github.com/jobreu/youtube-workshop-gesis-2020) (together with Julian Kohne and M. Rohangis Mohseni), GESIS Cologne, February 10-11, 2020.
-
 - [*Linking Twitter & survey data*](https://training.gesis.org/?site=pDetails&child=full&pID=0x50AFEB41D3B34A09A1F067452267DFC5) (together with Luke Sloan and Libby Bishop), GESIS Cologne, June 23-24, 2020.
 
-- *Introduction to R for Data Analysis* (together with Jan-Philipp Kolb and Stefan Jünger), GESIS Summer School, Cologne, August 3-7, 2020.
+- [*Introduction to R for Data Analysis*](https://training.gesis.org/?site=pDetails&child=full&pID=0xB9A0C0556EC94063A6171CC5D5946F0E&subID=0x3D8DF3356767412FB71AA7A5F4BD4253) (together with Jan-Philipp Kolb and Stefan Jünger), GESIS Summer School, Cologne, August 3-7, 2020.
 
 **Past workshops:**
+
+- [*Automatic sampling and analysis of YouTube data*](https://github.com/jobreu/youtube-workshop-gesis-2020) (together with Julian Kohne and M. Rohangis Mohseni), GESIS Cologne, February 10-11, 2020.
 
 - *Working with the Facebook Ad Library*, [GESIS Data Day 2020](https://github.com/gesiscss/gesis_dataday_20), Cologne, January 23, 2020.
 

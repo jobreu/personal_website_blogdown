@@ -43,7 +43,7 @@ weight = 7
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Beginner"
+  description = "Intermediate"
   
 [[feature]]
   icon = "git"
