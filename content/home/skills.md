@@ -49,12 +49,12 @@ weight = 7
   icon = "git"
   icon_pack = "fab"
   name = "Git"
-  description = "Beginner"
+  description = "Basic"
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "Beginner"
+  description = "Basic"
 
 +++
