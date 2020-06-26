@@ -15,11 +15,11 @@ weight = 60
 
 **Upcoming workshops:**
 
-- [*Linking Twitter & survey data*](https://training.gesis.org/?site=pDetails&child=full&pID=0x50AFEB41D3B34A09A1F067452267DFC5) (online workshop together with Luke Sloan and Libby Bishop), June 23, 2020.
-
 - [*Introduction to R for Data Analysis*](https://training.gesis.org/?site=pDetails&child=full&pID=0xB9A0C0556EC94063A6171CC5D5946F0E&subID=0x3D8DF3356767412FB71AA7A5F4BD4253) (online workshop together with Stefan Jünger), GESIS Summer School, Cologne, August 3-7, 2020.
 
 **Past workshops:**
+
+- [*Linking Twitter & survey data*](https://github.com/jobreu/twitter-linking-workshop-2020) (online workshop together with Luke Sloan and Libby Bishop), June 23, 2020.
 
 - [*Archiving Social Media Data: Challenges and Proposed Solutions*](https://zenodo.org/record/3875963#.XuvbWmgzZnI), CESSDA webinar, June 4, 2020.
 
