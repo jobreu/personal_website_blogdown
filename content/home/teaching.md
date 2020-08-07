@@ -13,11 +13,9 @@ weight = 60
 
 +++
 
-**Upcoming workshops:**
-
-- [*Introduction to R for Data Analysis*](https://training.gesis.org/?site=pDetails&child=full&pID=0xB9A0C0556EC94063A6171CC5D5946F0E&subID=0x3D8DF3356767412FB71AA7A5F4BD4253) (online workshop together with Stefan Jünger), GESIS Summer School, Cologne, August 3-7, 2020.
-
 **Past workshops:**
+
+- [*Introduction to R for Data Analysis*](https://github.com/jobreu/r-intro-gesis-2020) (online workshop together with Stefan Jünger), GESIS Summer School, Cologne, August 3-7, 2020.
 
 - [*Linking Twitter & survey data*](https://github.com/jobreu/twitter-linking-workshop-2020) (online workshop together with Luke Sloan and Libby Bishop), June 23, 2020.
 
