@@ -1,6 +1,6 @@
 +++
 title = "The practical and ethical challenges in acquiring and sharing digital trace data: negotiating public-private partnerships"
-date = 2020-11-01
+date = 2020-08-19
 authors = ["Johannes Breuer", "Libby Bishop", "Katharina Kinder-Kurlanda"]
 publication_types = ["2"]
 abstract = ""
