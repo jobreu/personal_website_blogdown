@@ -168,12 +168,12 @@ enableGitInfo = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Privacy pack
   #   Show a cookie consent message to visitors
   #   Anonymize IP in Google Analytics (if enabled)
-  privacy_pack = false
+  privacy_pack = true
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -379,3 +379,18 @@ enableGitInfo = false
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+# https://gohugo.io/about/hugo-and-gdpr/#all-privacy-settings
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
