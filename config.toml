@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "sp-studio.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "johannes.breuer@gesis.org"
+  email = "johannes.breuer [at] gesis.org"
   address = "GESIS - Leibniz-Institute for the Social Sciences, Unter Sachsenhausen 6-8, 50667 Cologne, Germany"
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
@@ -254,7 +254,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:johannes.breuer@gesis.org"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
@@ -330,6 +330,11 @@ enableGitInfo = false
   name = "Contact"
   url = "#contact"
   weight = 5
+  
+[[menu.main]]
+ name = "Privacy"
+ url = "#privacy"
+ weight =  100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
