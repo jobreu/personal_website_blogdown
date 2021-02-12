@@ -12,10 +12,9 @@ weight = 5
   interests = [
     "Uses and effects of digital media",
     "Learning with digital media",
-    "Methods of media (effects) research",
-    "Data management",
     "Computational methods",
-    "Open science"
+    "Open science",
+    "Data management"
   ]
 
 # List your qualifications (such as academic degrees).

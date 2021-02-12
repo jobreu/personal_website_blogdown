@@ -1,7 +1,7 @@
 +++
 title = "Serious Games in der Gesundheitskommunikation"
-date = 2017-01-01
-authors = ["Johannes Breuer", "Josephine B Schmitt"]
+date = 2019-01-01
+authors = ["Johannes Breuer", "Josephine B. Schmitt"]
 publication_types = ["6"]
 abstract = ""
 selected = false
