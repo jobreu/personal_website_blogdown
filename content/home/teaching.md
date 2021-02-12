@@ -21,7 +21,7 @@ weight = 60
 
 **Selected past workshops & seminars:**
 
-- [*Digital Media Use and Data Literacy*](https://github.com/jobreu/data-literacy-seminar) (online seminar), Heinrich-Heine-University Düsseldorf, winter term 2020/2021.
+- [*Digital Media Use and Data Literacy*](https://github.com/jobreu/data-literacy-seminar) (online seminar), Heinrich-Heine-University Düsseldorf, winter term 2020-2021.
 
 - [*Introduction to R for Data Analysis*](https://github.com/jobreu/r-intro-gesis-2020) (online workshop together with Stefan Jünger), GESIS Summer School, Cologne, August 3-7, 2020.
 
