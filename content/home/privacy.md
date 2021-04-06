@@ -15,7 +15,7 @@ draft = false
 
 Nothing on this website requires you to identify yourself.
 
-The website does not use [cookies](https://www.cookiesandyou.com/). *Note*: Most web browsers allow you to [control handling of cookies](https://cookies.insites.com/disable-cookies/).
+The website does not use [cookies](https://www.cookiesandyou.com/). *Note*: Most web browsers allow you to [control the handling of cookies](https://cookies.insites.com/disable-cookies/).
 
 I have set the [Hugo Privacy options](https://gohugo.io/about/hugo-and-gdpr/#all-privacy-settings) so that all third-party services, including Google Analytics, should be disabled on this website.
 
