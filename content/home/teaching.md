@@ -15,7 +15,7 @@ weight = 60
 
 **Upcoming workshops & seminars:**
 
-- [*Linking Twitter & Survey data*](https://training.gesis.org/?site=pDetails&child=full&pID=0xAC7BCF1C3B8446B2878EC25A4F7424D5) (online workshop together with Luke Sloan and Libby Bishop), June 8, 2021.
+- [*Introduction to Survey Data Cleaning Using Tidyverse in R*](https://github.com/jobreu/tidyverse-workshop-esra-2021) (online workshop together with Stefan Jünger), ESRA 2021, July 22, 2021
 
 - [*Introduction to R for Data Analysis*](https://training.gesis.org/?site=pDetails&child=full&pID=0xB1510AFD86524A14AA36DF8A4DAD15F9&subID=0x02FBC86744084F37B3C4A2D2C584237E) (online workshop together with Stefan Jünger), GESIS Summer School in Survey Methodology, August 2-6, 2021.
 
@@ -23,13 +23,13 @@ weight = 60
 
 **Selected past workshops & seminars:**
 
+- [*Linking Twitter & Survey data*](https://github.com/jobreu/twitter-linking-workshop-2021) (online workshop together with Luke Sloan and Libby Bishop), June 8, 2021.
+
 - [*Automatic Sampling and Analysis of YouTube Data*](https://github.com/jobreu/youtube-workshop-gesis-2021) (online workshop together with Julian Kohne and M. Rohangis Mohseni), February 24-25, 2021.
 
 - [*Digital Media Use and Data Literacy*](https://github.com/jobreu/data-literacy-seminar) (online seminar), Heinrich-Heine-University Düsseldorf, winter term 2020-2021.
 
 - [*Introduction to R for Data Analysis*](https://github.com/jobreu/r-intro-gesis-2020) (online workshop together with Stefan Jünger), GESIS Summer School in Survey Methodology, August 3-7, 2020.
-
-- [*Linking Twitter & Survey data*](https://github.com/jobreu/twitter-linking-workshop-2020) (online workshop together with Luke Sloan and Libby Bishop), June 23, 2020.
 
 - [*Archiving Social Media Data: Challenges and Proposed Solutions*](https://zenodo.org/record/3875963#.XuvbWmgzZnI), CESSDA webinar, June 4, 2020.
 

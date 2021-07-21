@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Uses and effects of digital media",
+    "Online information & news consumption",
     "Learning with digital media",
     "Computational methods",
     "Open science",
@@ -32,5 +33,5 @@ weight = 5
 
 # Biography
 
-Johannes Breuer is a senior researcher in the team Data Linking & Data Security at GESIS - Leibniz
-Institute for the Social Sciences (Department Data Archive). Before joining GESIS he worked in several projects investigating the use and effects of digital media at the Universities of Cologne, Hohenheim, and Münster, and the Leibniz-Institut für Wissensmedien (Knowledge Media Research Center) in Tübingen. He also taught classes in psychology and communication at both the graduate and undergraduate level.
+Johannes Breuer is a senior researcher in the team Data Augmentation at GESIS - Leibniz
+Institute for the Social Sciences (Department Survey Data Curation) and (co-)leads the team Research Data & Methods at the Center for Advanced Internet Studies (CAIS). Previously, he worked in several projects investigating the use and effects of digital media at the Universities of Cologne, Hohenheim, and Münster, and the Leibniz-Institut für Wissensmedien (Knowledge Media Research Center) in Tübingen. He has also been teaching classes in psychology and communication at both the graduate and undergraduate level.

@@ -57,14 +57,15 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "GESIS - Leibniz Institute for the Social Sciences", url = "https://www.gesis.org/en/en/home/" } ]
+  organizations = [ { name = "GESIS - Leibniz Institute for the Social Sciences", url = "https://www.gesis.org/en/institute/staff/person/johannes.breuer" },
+  { name = "Center for Advanced Internet Studies (CAIS)", url = "https://www.cais.nrw/en/breuer_en/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "sp-studio.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "johannes.breuer [at] gesis.org"
-  address = "GESIS - Leibniz-Institute for the Social Sciences, Unter Sachsenhausen 6-8, 50667 Cologne, Germany"
+  address = "GESIS - Leibniz Institute for the Social Sciences, Unter Sachsenhausen 6-8, 50667 Cologne, Germany"
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
@@ -225,7 +226,7 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    publication_format = 2
 
     # Talk list format.
     #   0 = Simple
@@ -301,7 +302,7 @@ enableGitInfo = false
   [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/cv_JB_Apr21_apa-style.pdf"
+     link = "files/cv_JB_Jul21_apa-style.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -340,7 +341,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
-  url = "files/cv_JB_Apr21_apa-style.pdf"
+  url = "files/cv_JB_Jul21_apa-style.pdf"
   weight = 4
 
 # Search.

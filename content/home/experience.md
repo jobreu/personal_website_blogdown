@@ -18,14 +18,25 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+[[experience]]
+  title = "Team leader"
+  company = "Center for Advanced Internet Studies (CAIS)"
+  company_url = "https://www.cais.nrw/en/center-for-advanced-internet-studies-cais-en/"
+  location = "Cologne"
+  date_start = "2021-07-01"
+  date_end = ""
+  description = """Team Research Data & Methods"""
+
 [[experience]]
   title = "Senior researcher"
   company = "GESIS - Leibniz Institute for the Social Sciences"
-  company_url = ""
+  company_url = "https://www.gesis.org/en/home"
   location = "Cologne"
   date_start = "2017-04-01"
   date_end = ""
-  description = """Department Data Archive, Team Data Linking & Data Security"""
+  description = """Department Survey Data Curation, Team Data Augmentation"""
 
 [[experience]]
   title = "Postdoc"

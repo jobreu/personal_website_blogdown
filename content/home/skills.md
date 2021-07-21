@@ -20,11 +20,35 @@ weight = 7
 # * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
+
+[[feature]]
+  icon = "clipboard-list"
+  icon_pack = "fas"
+  name = "Survey Methods"
+  description = "Advanced"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
+  description = "Advanced"
+  
+[[feature]]
+  icon = "file-alt"
+  icon_pack = "fas"
+  name = "Text Mining"
+  description = "Advanced"
+
+[[feature]]
+  icon = "sitemap"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "Intermediate"
+  
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Data Visualization"
   description = "Advanced"
   
 [[feature]]
