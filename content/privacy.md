@@ -23,4 +23,4 @@ I have set the [Hugo Privacy options](https://gohugo.io/about/hugo-and-gdpr/#all
 
 As I do not collect your personal information there is nothing I can share.
 
-*Acknowledgment*: To optimize the privacy settings on my website and for the wording of this privacy notice I have followed the [tutorial by Ross Gayler](https://www.rossgayler.com/post/2018/07/07/updating-my-website-for-gdpr/).
+*Acknowledgment*: To optimize the privacy settings on my website and for the wording of this privacy notice I have followed the solutions proposed in a [blog post by Ross Gayler](https://www.rossgayler.com/post/2018/07/07/updating-my-website-for-gdpr/).
