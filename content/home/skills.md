@@ -70,15 +70,27 @@ weight = 7
   description = "Intermediate"
   
 [[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "Basic"
+  
+[[feature]]
   icon = "git"
   icon_pack = "fab"
   name = "Git"
   description = "Basic"
   
 [[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "SQL"
+  icon = "markdown"
+  icon_pack = "fab"
+  name = "Markdown"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "overleaf"
+  icon_pack = "ai"
+  name = "LaTeX"
   description = "Basic"
 
 +++
