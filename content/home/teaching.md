@@ -15,13 +15,13 @@ weight = 60
 
 **Upcoming workshops & seminars:**
 
-- [*Introduction to Survey Data Cleaning Using Tidyverse in R*](https://github.com/jobreu/tidyverse-workshop-esra-2021) (online workshop together with Stefan Jünger), ESRA 2021, July 22, 2021
-
 - [*Introduction to R for Data Analysis*](https://training.gesis.org/?site=pDetails&child=full&pID=0xB1510AFD86524A14AA36DF8A4DAD15F9&subID=0x02FBC86744084F37B3C4A2D2C584237E) (online workshop together with Stefan Jünger), GESIS Summer School in Survey Methodology, August 2-6, 2021.
 
 - [*Tools and Workflows for Reproducible Research in the Quantitative Social Sciences*](https://training.gesis.org/?site=pDetails&child=full&pID=0x6D125E38FB5043FFA900EE56B9EA740F) (online workshop with Bernd Weiss and Arnim Bleier), November 17-18, 2021.
 
 **Selected past workshops & seminars:**
+
+- [*Introduction to Survey Data Cleaning Using Tidyverse in R*](https://github.com/jobreu/tidyverse-workshop-esra-2021) (online workshop together with Stefan Jünger), ESRA 2021, July 22, 2021
 
 - [*Linking Twitter & Survey data*](https://github.com/jobreu/twitter-linking-workshop-2021) (online workshop together with Luke Sloan and Libby Bishop), June 8, 2021.
 
