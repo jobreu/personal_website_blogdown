@@ -61,7 +61,7 @@ enableGitInfo = false
   { name = "Center for Advanced Internet Studies (CAIS)", url = "https://www.cais.nrw/en/breuer_en/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "sp-studio.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "photo_JBreuer_Mar21.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "johannes.breuer [at] gesis.org"
