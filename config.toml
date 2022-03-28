@@ -261,6 +261,11 @@ enableGitInfo = false
     icon = "twitter"
     icon_pack = "fab"
     link = "https://twitter.com/MattEagle09"
+    
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    link = "https://github.com/jobreu"
 
   [[params.social]]
     icon = "google-scholar"
@@ -286,11 +291,11 @@ enableGitInfo = false
     icon = "osf"
     icon_pack = "ai"
     link = "https://osf.io/gm4ai/"
-    
+
   [[params.social]]
-    icon = "github"
+    icon = "youtube"
     icon_pack = "fab"
-    link = "https://github.com/jobreu"
+    link = "https://www.youtube.com/playlist?list=PLU90-zHtnUrDQDXrqOg3Pan4SQzoRDNYf"
     
   [[params.social]]
     icon = "figshare"
@@ -302,7 +307,7 @@ enableGitInfo = false
   [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/cv_JB_Jan22_apa-style.pdf"
+     link = "files/cv_JB_Mar22_apa-style.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -341,7 +346,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
-  url = "files/cv_JB_Jan22_apa-style.pdf"
+  url = "files/cv_JB_Mar22_apa-style.pdf"
   weight = 4
 
 # Search.
