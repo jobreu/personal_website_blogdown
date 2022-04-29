@@ -1,6 +1,6 @@
 +++
 title = "Post Post-Broadcast Democracy? News Exposure in the Age of Online Intermediaries"
-date = 2021-10-29
+date = 2022-04-26
 authors = ["Sebastian Stier", "Frank Mangold", "Michael Scharkow", "Johannes Breuer"]
 publication_types = ["2"]
 abstract = ""

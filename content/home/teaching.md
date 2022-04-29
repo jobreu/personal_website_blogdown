@@ -21,6 +21,8 @@ weight = 60
 
 **Selected past workshops & seminars:**
 
+- [*Reproducible research practices for psychologists*](https://github.com/crsh/reproducible-research-practices-workshop) (together with Frederik Aust), Leuven, April 27-28, 2022.
+
 - [*Ethische Fragen in der Forschung mit digitalen Spurdaten* (Ethical questions in research with digital trace data)](https://zenodo.org/record/5888912), January 21, 2022.
 
 - [*Automatic Sampling and Analysis of YouTube Data*](https://github.com/jobreu/youtube-workshop-gesis-2022) (online workshop together with Julian Kohne and M. Rohangis Mohseni), February 21-22, 2022.
@@ -38,5 +40,3 @@ weight = 60
 - [*Archiving Social Media Data: Challenges and Proposed Solutions*](https://zenodo.org/record/3875963#.XuvbWmgzZnI), CESSDA webinar, June 4, 2020.
 
 - *Working with the Facebook Ad Library*, [GESIS Data Day 2020](https://github.com/gesiscss/gesis_dataday_20), Cologne, January 23, 2020.
-
-- [*Developing your Personal Workflow for Transparent & Reproducible Research*](https://github.com/crsh/psych-transparency-guide_workshop/archive/v0.3.zip) (together with Frederik Aust), SIPS 2019, Rotterdam, July 9, 2019.

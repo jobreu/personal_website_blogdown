@@ -79,7 +79,7 @@ weight = 7
   icon = "git"
   icon_pack = "fab"
   name = "Git"
-  description = "Basic"
+  description = "Intermediate"
   
 [[feature]]
   icon = "markdown"
@@ -91,6 +91,6 @@ weight = 7
   icon = "overleaf"
   icon_pack = "ai"
   name = "LaTeX"
-  description = "Basic"
+  description = "Intermediate"
 
 +++
