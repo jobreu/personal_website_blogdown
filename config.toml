@@ -265,7 +265,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "mastodon"
     icon_pack = "fab"
-    link = "https://fediscience.org/web/accounts/108197903293422178"
+    link = "https://fediscience.org/@JohannesBreuer"
     
   [[params.social]]
     icon = "github"
