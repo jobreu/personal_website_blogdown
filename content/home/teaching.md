@@ -15,13 +15,15 @@ weight = 60
 
 **Upcoming workshops & seminars:**
 
-- [*Introduction to R for Data Analysis*](https://training.gesis.org/?site=pDetails&child=full&pID=0xA4F16924DCCD439BA3E8A8C51B04179B&subID=0xBD2E46766CBB4427BB57DB7E0B2F5C6A) (online workshop together with Stefan Jünger and Veronika Bartdorfer), GESIS Summer School in Survey Methodology, August 15-19, 2022.
+- [*Tools and Workflows for Reproducible Research in the Quantitative Social Sciences*](https://training.gesis.org/?site=pDetails&child=full&pID=0xAEFDE76E0FB549DCA06885253C45C354) (online workshop with Bernd Weiss and Arnim Bleier), November 17-18, 2022.
+
+- [*Introduction to R for Data Analysis*](https://training.gesis.org/?site=pDetails&child=full&pID=0xA4F16924DCCD439BA3E8A8C51B04179B&subID=0xBD2E46766CBB4427BB57DB7E0B2F5C6A) (online workshop together with Stefan Jünger and Veronika Batzdorfer), GESIS Summer School in Survey Methodology, August 15-19, 2022.
 
 - [*Linking Twitter & Survey data*](https://training.gesis.org/?site=pDetails&child=full&pID=0x43BF9C02B2F144178FBC82E82ECB5961) (online workshop together with Luke Sloan and Libby Bishop), June 27, 2022.
 
 **Selected past workshops & seminars:**
 
-- [*Twitter Daten mit R* (Twitter Data with R)](https://github.com/jobreu/demo-twitter-r) (short demo as part of the online workshop *Twitter Tools - Collecting, processing, and analyzing data*), May 13, 2022.
+- [*Twitter-Daten mit R* (Twitter Data with R)](https://github.com/jobreu/demo-twitter-r) (short demo as part of the online workshop *Twitter Tools - Collecting, processing, and analyzing data*), May 13, 2022.
 
 - [*Reproducible research practices for psychologists*](https://github.com/crsh/reproducible-research-practices-workshop) (together with Frederik Aust), Leuven, April 27-28, 2022.
 
