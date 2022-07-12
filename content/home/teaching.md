@@ -19,9 +19,9 @@ weight = 60
 
 - [*Introduction to R for Data Analysis*](https://training.gesis.org/?site=pDetails&child=full&pID=0xA4F16924DCCD439BA3E8A8C51B04179B&subID=0xBD2E46766CBB4427BB57DB7E0B2F5C6A) (online workshop together with Stefan Jünger and Veronika Batzdorfer), GESIS Summer School in Survey Methodology, August 15-19, 2022.
 
-- [*Linking Twitter & Survey data*](https://training.gesis.org/?site=pDetails&child=full&pID=0x43BF9C02B2F144178FBC82E82ECB5961) (online workshop together with Luke Sloan and Libby Bishop), June 27, 2022.
-
 **Selected past workshops & seminars:**
+
+- [*Linking Twitter & Survey data*](https://github.com/jobreu/twitter-linking-workshop-2022) (online workshop together with Luke Sloan and Libby Bishop), June 27, 2022.
 
 - [*Twitter-Daten mit R* (Twitter Data with R)](https://github.com/jobreu/demo-twitter-r) (short demo as part of the online workshop *Twitter Tools - Collecting, processing, and analyzing data*), May 13, 2022.
 
@@ -38,7 +38,5 @@ weight = 60
 - [*Introduction to R for Data Analysis*](https://github.com/jobreu/r-intro-gesis-2021) (online workshop together with Stefan Jünger), GESIS Summer School in Survey Methodology, August 2-6, 2021.
 
 - [*Introduction to Survey Data Cleaning Using Tidyverse in R*](https://github.com/jobreu/tidyverse-workshop-esra-2021) (online workshop together with Stefan Jünger), ESRA 2021, July 22, 2021
-
-- [*Linking Twitter & Survey data*](https://github.com/jobreu/twitter-linking-workshop-2021) (online workshop together with Luke Sloan and Libby Bishop), June 8, 2021.
 
 - *Working with the Facebook Ad Library*, [GESIS Data Day 2020](https://github.com/gesiscss/gesis_dataday_20), Cologne, January 23, 2020.
