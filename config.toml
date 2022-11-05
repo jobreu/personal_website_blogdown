@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Johannes Breuer"
+title = "Dr. Johannes Breuer"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -52,13 +52,13 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Johannes Breuer"
+  name = "Dr. Johannes Breuer"
   role = "Senior researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "GESIS - Leibniz Institute for the Social Sciences", url = "https://www.gesis.org/en/institute/staff/person/johannes.breuer" },
-  { name = "Center for Advanced Internet Studies (CAIS)", url = "https://www.cais.nrw/en/breuer_en/" } ]
+  { name = "Center for Advanced Internet Studies (CAIS)", url = "https://www.cais-research.de/team/johannes-breuer/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "photo_JBreuer_Mar21.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -285,7 +285,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "publons"
     icon_pack = "ai"
-    link = "https://publons.com/researcher/1422612/johannes-breuer/"
+    link = "https://www.webofscience.com/wos/author/record/1237544/"
     
   [[params.social]]
     icon = "researchgate"
@@ -312,7 +312,7 @@ enableGitInfo = false
   [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/cv_JB_Aug22_apa-style.pdf"
+     link = "files/cv_JB_Nov22_apa-style.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -351,7 +351,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
-  url = "files/cv_JB_Aug22_apa-style.pdf"
+  url = "files/cv_JB_Nov22_apa-style.pdf"
   weight = 4
 
 # Search.
