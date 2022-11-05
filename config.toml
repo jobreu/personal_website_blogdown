@@ -52,7 +52,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Dr. Johannes Breuer"
+  name = "Johannes Breuer"
   role = "Senior researcher"
 
   # Organizations/Affiliations.
@@ -285,7 +285,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "publons"
     icon_pack = "ai"
-    link = "https://www.webofscience.com/wos/author/record/1237544/"
+    link = "https://www.webofscience.com/wos/author/record/1237544"
     
   [[params.social]]
     icon = "researchgate"
