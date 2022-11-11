@@ -33,7 +33,7 @@
         {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
       {{ end }}
       <li>
-        <a itemprop="sameAs" rel = "me" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+        <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
           <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
         </a>
       </li>
