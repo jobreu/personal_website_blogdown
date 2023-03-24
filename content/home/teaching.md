@@ -13,13 +13,9 @@ weight = 60
 
 +++
 
-**Upcoming workshops & seminars:**
-
-- [*Linking Twitter & Survey data*](https://training.gesis.org/?site=pDetails&child=full&pID=0x3B5B70F3787749CB80956A9256B8D29A) (online workshop together with Luke Sloan and Libby Bishop), June 12, 2023.
-
-- [*Automatic Sampling and Analysis of YouTube Data*](https://training.gesis.org/?site=pDetails&child=full&pID=0xA3254EE28FA344398AAC7E869243C2A0) (online workshop together with Annika Deubel and M. Rohangis Mohseni), February 14-15, 2023.
-
 **Selected past workshops & seminars:**
+
+- [*Automatic Sampling and Analysis of YouTube Data*](https://github.com/jobreu/youtube-workshop-gesis-2023) (online workshop together with Annika Deubel and M. Rohangis Mohseni), February 14-15, 2023.
 
 - [*Tools and Workflows for Reproducible Research in the Quantitative Social Sciences*](https://github.com/jobreu/reproducible-research-gesis-2022) (online workshop with Bernd Weiss and Arnim Bleier), November 17-18, 2022.
 
@@ -32,8 +28,6 @@ weight = 60
 - [*Reproducible research practices for psychologists*](https://github.com/crsh/reproducible-research-practices-workshop) (together with Frederik Aust), Leuven, April 27-28, 2022.
 
 - [*Ethische Fragen in der Forschung mit digitalen Spurdaten* (Ethical questions in research with digital trace data)](https://zenodo.org/record/5888912), January 21, 2022.
-
-- [*Automatic Sampling and Analysis of YouTube Data*](https://github.com/jobreu/youtube-workshop-gesis-2022) (online workshop together with Julian Kohne and M. Rohangis Mohseni), February 21-22, 2022.
 
 - [*Digitale Mediennutzung und Data Literacy* (Digital Media Use and Data Literacy)](https://github.com/jobreu/data-literacy-seminar-21-22) (online seminar), Heinrich-Heine-University Düsseldorf, winter term 2021-2022.
 
