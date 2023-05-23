@@ -1,6 +1,6 @@
 +++
 title = "Routines and the Predictability of Day-to-Day Web Use"
-date = 2022-09-06
+date = 2023-05-01
 authors = ["Anna Schnauber-Stockmann", "Michael Scharkow", "Johannes Breuer"]
 publication_types = ["2"]
 abstract = ""
