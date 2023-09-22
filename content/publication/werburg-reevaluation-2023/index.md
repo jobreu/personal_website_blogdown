@@ -7,6 +7,6 @@ abstract = ""
 selected = false
 publication = "*Archives of Sexual Behavior*"
 url_pdf = "https://link.springer.com/content/pdf/10.1007/s10508-023-02666-8.pdf?pdf=button"
-url_data= "https://osf.io/6rc35/"
+url_dataset = "https://osf.io/6rc35/"
 +++
 

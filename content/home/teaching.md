@@ -26,7 +26,7 @@ weight = 60
 
 - [*Automatic Sampling and Analysis of YouTube Data*](https://github.com/jobreu/youtube-workshop-gesis-2023) (online workshop together with Annika Deubel and M. Rohangis Mohseni), February 14-15, 2023.
 
-- - [*Introduction to Sentiment Analysis: Potentials and limitations*](https://github.com/CAIS-Research/Introduction-to-SA-Training-CAIS) (together with Marco Wähner), December 14, 2022.
+- [*Using git & GitHub via RStudio*](https://github.com/CAIS-Research/git_workshop) (together with Marco Wähner), December 14, 2022.
 
 - [*Tools and Workflows for Reproducible Research in the Quantitative Social Sciences*](https://github.com/jobreu/reproducible-research-gesis-2022) (online workshop with Bernd Weiss and Arnim Bleier), November 17-18, 2022.
 
