@@ -13,9 +13,20 @@ weight = 60
 
 +++
 
+**Upcoming workshops:**
+
+- [*Automatic Sampling and Analysis of YouTube Data*](https://training.gesis.org/?site=pDetails&child=full&pID=0x44F3C55B23A04C46805CBFDB00BDCD37) (online workshop together with Annika Deubel and M. Rohangis Mohseni), February 14-15, 2024.
+
+- [*Workflows for Reproducible Research with R & Git*](https://training.gesis.org/?site=pDetails&child=full&pID=0xBFA25C61BAA646DCB0EBAC523EBAF532) (online workshop with Bernd Weiss and Arnim Bleier), November 16-17, 2023.
+
+
 **Selected past workshops & seminars:**
 
+- [*Introduction to Sentiment Analysis: Potentials and limitations*](https://github.com/CAIS-Research/Introduction-to-SA-Training-CAIS) (online workshop together with Caio Mello and Gaurish Thakkar), July 10, 2023.
+
 - [*Automatic Sampling and Analysis of YouTube Data*](https://github.com/jobreu/youtube-workshop-gesis-2023) (online workshop together with Annika Deubel and M. Rohangis Mohseni), February 14-15, 2023.
+
+- - [*Introduction to Sentiment Analysis: Potentials and limitations*](https://github.com/CAIS-Research/Introduction-to-SA-Training-CAIS) (together with Marco Wähner), December 14, 2022.
 
 - [*Tools and Workflows for Reproducible Research in the Quantitative Social Sciences*](https://github.com/jobreu/reproducible-research-gesis-2022) (online workshop with Bernd Weiss and Arnim Bleier), November 17-18, 2022.
 
@@ -23,14 +34,8 @@ weight = 60
 
 - [*Linking Twitter & Survey data*](https://github.com/jobreu/twitter-linking-workshop-2022) (online workshop together with Luke Sloan and Libby Bishop), June 27, 2022.
 
-- [*Twitter-Daten mit R* (Twitter Data with R)](https://github.com/jobreu/demo-twitter-r) (short demo as part of the online workshop *Twitter Tools - Collecting, processing, and analyzing data*), May 13, 2022.
-
 - [*Reproducible research practices for psychologists*](https://github.com/crsh/reproducible-research-practices-workshop) (together with Frederik Aust), Leuven, April 27-28, 2022.
 
 - [*Ethische Fragen in der Forschung mit digitalen Spurdaten* (Ethical questions in research with digital trace data)](https://zenodo.org/record/5888912), January 21, 2022.
 
 - [*Digitale Mediennutzung und Data Literacy* (Digital Media Use and Data Literacy)](https://github.com/jobreu/data-literacy-seminar-21-22) (online seminar), Heinrich-Heine-University Düsseldorf, winter term 2021-2022.
-
-- [*Introduction to Survey Data Cleaning Using Tidyverse in R*](https://github.com/jobreu/tidyverse-workshop-esra-2021) (online workshop together with Stefan Jünger), ESRA 2021, July 22, 2021
-
-- *Working with the Facebook Ad Library*, [GESIS Data Day 2020](https://github.com/gesiscss/gesis_dataday_20), Cologne, January 23, 2020.
