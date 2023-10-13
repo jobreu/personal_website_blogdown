@@ -23,7 +23,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Team leader"
   company = "Center for Advanced Internet Studies (CAIS)"
-  company_url = "https://www.cais.nrw/en/center-for-advanced-internet-studies-cais-en/"
+  company_url = "https://www.cais-research.de/"
   location = "Bochum"
   date_start = "2021-07-01"
   date_end = ""
@@ -34,8 +34,17 @@ date_format = "January 2006"
   company = "GESIS - Leibniz Institute for the Social Sciences"
   company_url = "https://www.gesis.org/en/home"
   location = "Cologne"
-  date_start = "2017-04-01"
+  date_start = "2023-10-01"
   date_end = ""
+  description = """Department Computational Social Science, Team Digital Society Observatory"""
+
+[[experience]]
+  title = "Senior researcher"
+  company = "GESIS - Leibniz Institute for the Social Sciences"
+  company_url = "https://www.gesis.org/en/home"
+  location = "Cologne"
+  date_start = "2017-04-01"
+  date_end = "2023-09-30"
   description = """Department Survey Data Curation, Team Data Augmentation"""
 
 [[experience]]

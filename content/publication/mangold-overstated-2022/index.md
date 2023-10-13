@@ -1,6 +1,6 @@
 +++
 title = "The overstated generational gap in online news use? A consolidated infrastructural perspective"
-date = 2021-01-31
+date = 2022-01-01
 authors = ["Frank Mangold", "Sebastian Stier", "Johannes Breuer", "Michael Scharkow"]
 publication_types = ["2"]
 abstract = ""
