@@ -13,7 +13,7 @@ title = "Dr. Johannes Breuer"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2023"
+copyright = "&copy; 2024"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -285,7 +285,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "publons"
     icon_pack = "ai"
-    link = "https://www.webofscience.com/wos/author/record/1237544"
+    link = "https://www.webofscience.com/wos/author/record/JEF-1093-2023"
     
   [[params.social]]
     icon = "researchgate"
@@ -312,7 +312,7 @@ enableGitInfo = false
   [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/cv_JB_Dec23_apa-style.pdf"
+     link = "files/cv_JB_Jan24_apa-style.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -351,7 +351,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
-  url = "files/cv_JB_Dec23_apa-style.pdf"
+  url = "files/cv_JB_Jan24_apa-style.pdf"
   weight = 4
 
 # Search.
