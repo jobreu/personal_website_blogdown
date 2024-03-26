@@ -45,7 +45,7 @@ date_format = "January 2006"
   location = "Cologne"
   date_start = "2017-04-01"
   date_end = "2023-09-30"
-  description = """Department Survey Data Curation, Team Data Augmentation"""
+  description = """Department Survey Data Curation, Team Survey Data Augmentation"""
 
 [[experience]]
   title = "Postdoc"

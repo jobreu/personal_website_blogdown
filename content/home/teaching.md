@@ -13,10 +13,6 @@ weight = 60
 
 +++
 
-**Upcoming workshops:**
-
-- [*Automatic Sampling and Analysis of YouTube Data*](https://training.gesis.org/?site=pDetails&child=full&pID=0x44F3C55B23A04C46805CBFDB00BDCD37) (online workshop together with Annika Deubel and M. Rohangis Mohseni), February 14-15, 2024.
-
 **Selected past workshops & seminars:**
 
 - [*Workflows for Reproducible Research with R & Git*](https://github.com/jobreu/reproducible-research-gesis-2023) (online workshop with Bernd Weiss and Arnim Bleier), November 16-17, 2023.
