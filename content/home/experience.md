@@ -21,25 +21,34 @@ date_format = "January 2006"
 
 
 [[experience]]
-  title = "Team leader"
-  company = "Center for Advanced Internet Studies (CAIS)"
-  company_url = "https://www.cais-research.de/"
-  location = "Bochum"
-  date_start = "2021-07-01"
-  date_end = ""
-  description = """Team Research Data & Methods"""
-
-[[experience]]
-  title = "Senior researcher"
+  title = "Team Leader"
   company = "GESIS - Leibniz Institute for the Social Sciences"
   company_url = "https://www.gesis.org/en/home"
   location = "Cologne"
-  date_start = "2023-10-01"
+  date_start = "2024-04-01"
   date_end = ""
   description = """Department Computational Social Science, Team Digital Society Observatory"""
 
 [[experience]]
-  title = "Senior researcher"
+  title = "Team Leader"
+  company = "Center for Advanced Internet Studies (CAIS)"
+  company_url = "https://www.cais-research.de/"
+  location = "Bochum"
+  date_start = "2021-07-01"
+  date_end = "2024-04-30"
+  description = """Team Research Data & Methods"""
+
+[[experience]]
+  title = "Senior Researcher"
+  company = "GESIS - Leibniz Institute for the Social Sciences"
+  company_url = "https://www.gesis.org/en/home"
+  location = "Cologne"
+  date_start = "2023-10-01"
+  date_end = "2024-04-30"
+  description = """Department Computational Social Science, Team Digital Society Observatory"""
+
+[[experience]]
+  title = "Senior Researcher"
   company = "GESIS - Leibniz Institute for the Social Sciences"
   company_url = "https://www.gesis.org/en/home"
   location = "Cologne"

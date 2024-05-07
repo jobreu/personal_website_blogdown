@@ -53,12 +53,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Johannes Breuer"
-  role = "Senior researcher"
+  role = "Senior Researcher & Team Leader"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "GESIS - Leibniz Institute for the Social Sciences", url = "https://www.gesis.org/en/institute/staff/person/johannes.breuer" },
-  { name = "Center for Advanced Internet Studies (CAIS)", url = "https://www.cais-research.de/team/johannes-breuer/" } ]
+  organizations = [ { name = "GESIS - Leibniz Institute for the Social Sciences", url = "https://www.gesis.org/en/institute/staff/person/johannes.breuer" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "photo_JBreuer_Mar21.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -312,7 +311,7 @@ enableGitInfo = false
   [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/cv_JB_Mar24_apa-style.pdf"
+     link = "files/cv_JB_May24_apa-style.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -351,7 +350,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
-  url = "files/cv_JB_Mar24_apa-style.pdf"
+  url = "files/cv_JB_May24_apa-style.pdf"
   weight = 4
 
 # Search.
