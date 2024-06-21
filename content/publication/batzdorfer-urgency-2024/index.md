@@ -1,6 +1,6 @@
 +++
 title = "Between urgency and data quality: assessing the FAIRness of data in social science research on the COVID-19 pandemic"
-date = 2023-01-16
+date = 2024-06-05
 authors = ["Veronika Batzdorfer", "Wolfgang Zenk-Möltgen", "Laura Young", "Alexia Katsanidou", "Johannes Breuer", "Libby Bishop"]
 publication_types = ["2"]
 abstract = ""
