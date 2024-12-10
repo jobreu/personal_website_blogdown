@@ -262,9 +262,9 @@ enableGitInfo = false
     link = "https://bsky.app/profile/johannesbreuer.com"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "x-twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/MattEagle09"
+    link = "https://x.com/MattEagle09"
   
   [[params.social]]
     icon = "mastodon"
