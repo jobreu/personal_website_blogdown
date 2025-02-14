@@ -6,5 +6,5 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "*European Sociological Review*"
-url_dataset = "https://doi.org/10.17605/OSF.IO/285U"
+url_dataset = "https://osf.io/285uj/"
 +++
