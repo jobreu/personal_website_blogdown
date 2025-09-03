@@ -19,6 +19,23 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Professor of Digital Social Science"
+  company = "University of Duisburg-Essen"
+  company_url = "https://www.uni-due.de/en/"
+  location = "Duisburg"
+  date_start = "2025-09-01"
+  date_end = ""
+  description = """Institute of Political Science"""
+
+[[experience]]
+  title = "Team Leader"
+  company = "Center for Advanced Internet Studies (CAIS)"
+  company_url = "https://www.cais-research.de/en/home/"
+  location = "Bochum"
+  date_start = "2025-09-01"
+  date_end = ""
+  description = """Team Research Data & Methods"""
 
 [[experience]]
   title = "Team Leader"
@@ -26,13 +43,13 @@ date_format = "January 2006"
   company_url = "https://www.gesis.org/en/home"
   location = "Cologne"
   date_start = "2024-04-01"
-  date_end = ""
+  date_end = "2025-08-31"
   description = """Department Computational Social Science, Team Digital Society Observatory"""
 
 [[experience]]
   title = "Team Leader"
   company = "Center for Advanced Internet Studies (CAIS)"
-  company_url = "https://www.cais-research.de/"
+  company_url = "https://www.cais-research.de/en/home/"
   location = "Bochum"
   date_start = "2021-07-01"
   date_end = "2024-04-30"
