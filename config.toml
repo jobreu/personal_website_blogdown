@@ -53,18 +53,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Johannes Breuer"
-  role = "Senior Researcher & Team Leader"
+  role = "Professor of Digital Social Science & Team Leader"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "GESIS - Leibniz Institute for the Social Sciences", url = "https://www.gesis.org/en/institute/staff/person/johannes.breuer" } ]
+  organizations = [ { name = "Center for Advanced Internet Studies (CAIS)", url = "https://www.cais-research.de/en/home/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "photo_JBreuer_May24.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "johannes.breuer [at] gesis.org"
-  address = "GESIS - Leibniz Institute for the Social Sciences, Unter Sachsenhausen 6-8, 50667 Cologne, Germany"
+  email = "johannes.breuer [at] cais-research.de"
+  address = "Center for Advanced Internet Studies (CAIS), Konrad-Zuse-Str. 2a, 44801 Bochum, Germany"
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
@@ -254,7 +254,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:johannes.breuer@gesis.org"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:johannes.breuer@cais-research.de"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
@@ -311,7 +311,7 @@ enableGitInfo = false
   [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/cv_JB_July25_apa-style.pdf"
+     link = "files/cv_JB_Sep25_apa-style.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -350,7 +350,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
-  url = "files/cv_JB_July25_apa-style.pdf"
+  url = "files/cv_JB_Sep25_apa-style.pdf"
   weight = 4
 
 # Search.

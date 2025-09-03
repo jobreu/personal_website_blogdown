@@ -34,8 +34,8 @@ weight = 5
 
 # Biography
 
-I am a senior researcher and team leader at [*GESIS - Leibniz Institute for the Social Sciences*](https://www.gesis.org/en/home), [Department *Computational Social Science*](https://www.gesis.org/en/institute/departments/computational-social-science) in Cologne, Germany.
+I am a professor of "Digital Social Science" at the [University of Duisburg-Essen](https://www.uni-due.de/en/), [Institute of Political Science](https://www.uni-due.de/politik/institute.php) and head of the team "Research Data & Methods" at the [Center for Advanced Internet Studies (CAIS)](https://www.cais-research.de/en/home/) in Bochum, Germany.
 
-My research focuses on the uses and effects of digital media, digital trace data, computational methods, data management, open science, and meta-science. I frequently give workshops on topics related to quantitative and computational research methods and the statistical programming language `R`, and have also taught classes in psychology and communication at both the graduate and undergraduate level. 
+My research focuses on the uses and effects of digital media, digital trace data, computational methods, data management, open science, and meta-science. I frequently give workshops on topics related to quantitative and computational research methods and the statistical programming language `R`, and have also taught classes in psychology, communication, and the social sciences at both the graduate and undergraduate level. 
 
 You can also find me on Mastodon (<a rel="me" href="https://fediscience.org/@JohannesBreuer" cfmodified="modified">@JohannesBreuer@fediscience.org</a>) and [BlueSky](https://bsky.app/profile/johannesbreuer.com).
