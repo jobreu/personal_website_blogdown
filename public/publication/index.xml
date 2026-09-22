@@ -1,16 +1,466 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Johannes Breuer</title>
+    <title>Publications on Prof. Dr. Johannes Breuer</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Johannes Breuer</description>
+    <description>Recent content in Publications on Prof. Dr. Johannes Breuer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2024</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Improving Computational Reproducibility in the Social Sciences</title>
+      <link>/publication/reiss-improving-2026/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/reiss-improving-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Analytical Robustness of the Social and Behavioural Sciences</title>
+      <link>/publication/aczel-investigating-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/aczel-investigating-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Election Research in the Age of Regulated Data Access under the EU Digital Services Act</title>
+      <link>/publication/darius-election-2026/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/darius-election-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projekt Wi4impact: Wissen wie Wissen wirkt im Kontext der Digitalisierung</title>
+      <link>/publication/voigt-projekt-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/voigt-projekt-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Changes, Credible Conclusions? A Direct and Conceptual Replication of Shen et al.&#39;s (2019) Study on Online Image Credibility</title>
+      <link>/publication/haim-contextual-2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/haim-contextual-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radical right populism and the media: evidence from the supply side and demand side of political information in Germany</title>
+      <link>/publication/stier-radical-2025/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/stier-radical-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let’s talk about language—and its role for replicability</title>
+      <link>/publication/schmalz-language-2025/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schmalz-language-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asking for Traces: A Vignette Study on Acceptability Norms and Personal Willingness to Donate Digital Trace Data</title>
+      <link>/publication/silber-asking-2024/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/silber-asking-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#39;Don’t research us&#39; — How Mastodon instance rules connect to research ethics</title>
+      <link>/publication/wahner-mastodon-2024/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/wahner-mastodon-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key topic or bare necessity? How Research Ethics are Addressed and Discussed in Computational Communication Science</title>
+      <link>/publication/knopfle-ethics-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/knopfle-ethics-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are We Replicating Yet? Reproduction and Replication in Communication Research</title>
+      <link>/publication/breuer-replicating-2024/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/breuer-replicating-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Between urgency and data quality: assessing the FAIRness of data in social science research on the COVID-19 pandemic</title>
+      <link>/publication/batzdorfer-urgency-2024/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/batzdorfer-urgency-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neue Publikationsformate zu offenen Infrastrukturen und Ressourcen für die Kommunikations- und Medienforschung: Ein Erfahrungsbericht [New publication formats on open infrastructures and resources for communication and media research: A field report]</title>
+      <link>/publication/strippel-neue-2023/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/strippel-neue-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Einführung: Digitalisierungsforschung. Ein Einblick in die Bandbreite der Forschung zu und mit digitalen Daten [Introduction: Digitalization Research. An insight into the range of research on and with digital data]</title>
+      <link>/publication/kohne-einblick-2023/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kohne-einblick-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting the AI into social science – How artificial intelligence tools are changing and challenging research in the social sciences</title>
+      <link>/publication/breuer-putting-2023/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-putting-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-centric approaches for collecting Facebook data in the &#39;post-API age&#39;: experiences from two studies and recommendations for future research</title>
+      <link>/publication/breuer-user-2023/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/breuer-user-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Re-evaluation of Online Pornography Use in Germany: A Combination of Web Tracking and Survey Data Analysis</title>
+      <link>/publication/werburg-reevaluation-2023/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/werburg-reevaluation-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial: Data, archives, and tools: Introducing new publication formats on infrastructures and resources for communication and media research</title>
+      <link>/publication/strippel-editorial-2023/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/strippel-editorial-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Participants in Online Privacy Research: Ethical and Practical Consideration</title>
+      <link>/publication/breuer-participants-2023/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/breuer-participants-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Einführung: Digitalisierungsforschung. Wie wir die digitale Transformation wissenschaftlich erfassen können [Introduction: Digitization Research. How we can capture the digital transformation scientifically]</title>
+      <link>/publication/schmitt-digitalisierung-2023/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/schmitt-digitalisierung-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Is Dead, Long Live Privacy!: Two Diverging Perspectives on Current Issues Related to Privacy</title>
+      <link>/publication/dienlin-privacy-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/dienlin-privacy-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routines and the Predictability of Day-to-Day Web Use</title>
+      <link>/publication/schnauber-routines-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/schnauber-routines-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>That bygone feeling: Controller ergonomics and nostalgia in video game play</title>
+      <link>/publication/bowman-bygone-2023/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/bowman-bygone-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using YouTube data for social science research</title>
+      <link>/publication/breuer-using-2023/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-using-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharing social media data: The role of past experiences, attitudes, norms, and perceived behavioral control</title>
+      <link>/publication/akdeniz-sharing-2023/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/akdeniz-sharing-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>www - Die Funktionen des Internets für die Wissenschaft [www - The functions of the internet for science]</title>
+      <link>/publication/breuer-www-2022/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-www-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking surveys and digital trace data: Insights from two studies on determinants of data sharing behaviour</title>
+      <link>/publication/silber-linking-2022/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/silber-linking-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of the information environment during the first COVID-19 wave in Germany</title>
+      <link>/publication/stier-information-2022/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/stier-information-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content Analysis in the Research Field of Video Games</title>
+      <link>/publication/wulf-content-2022/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/wulf-content-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender, Gaming Motives, and Genre: Comparing Singaporean, German, and American Players</title>
+      <link>/publication/ratan-gender-2022/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ratan-gender-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post Post-Broadcast Democracy? News Exposure in the Age of Online Intermediaries</title>
+      <link>/publication/stier-post-2022/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/stier-post-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The overstated generational gap in online news use? A consolidated infrastructural perspective</title>
+      <link>/publication/mangold-overstated-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/mangold-overstated-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Escaping the pandemic present: The relationship between nostalgic media use, escapism, and well-being during the COVID-19 pandemic</title>
+      <link>/publication/wulf-escaping-2021/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/wulf-escaping-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do News Actually &#39;Find Me&#39;? Using Digital Behavioral Data to Study the News-Finds-Me Phenomenon</title>
+      <link>/publication/haim-news-2021/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/haim-news-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From cognitive overload to digital detox: Psychological implications of telework during the COVID-19 pandemic</title>
+      <link>/publication/schmitt-detox-2021/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/schmitt-detox-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effects of Different Feedback Types on Learning With Mobile Quiz Apps</title>
+      <link>/publication/rueth-feedback-2021/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/rueth-feedback-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informed consent for linking survey and social media data - Differences between platforms and data types</title>
+      <link>/publication/breuer-informed-2021/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/breuer-informed-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Agenda for Open Science in Communication</title>
+      <link>/publication/dienlin-open-2020/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dienlin-open-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empfehlungen zum Umgang mit Forschungsdaten in der Kommunikationswissenschaft [Guidelines for handling research data in communication science]</title>
+      <link>/publication/peter-empfehlungen-2020/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/peter-empfehlungen-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bedeutet mehr Feedback auch mehr lernen? Die Wirkung von erweitertem und korrigierendem Feedback in einem digitalen Quizspiel auf die Lernleistung [Does more education also mean more learning? The effect of corrective feedback in a digital quiz game on learning performance]</title>
+      <link>/publication/ruth-bedeutet-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ruth-bedeutet-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field</title>
+      <link>/publication/stier-integrating-2020/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/stier-integrating-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The practical and ethical challenges in acquiring and sharing digital trace data: negotiating public-private partnerships</title>
+      <link>/publication/breuer-practical-2020/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/breuer-practical-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Formats, New Methods: Computational Approaches as a Way Forward for Media Entertainment Research</title>
+      <link>/publication/breuer-formats-2020/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/breuer-formats-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How social network sites and other online intermediaries increase exposure to news</title>
+      <link>/publication/scharkow-social-2020/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/scharkow-social-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Relationship Between Networking, LinkedIn Use, and Retrieving Informational Benefits</title>
+      <link>/publication/utz-relationship-2019/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/utz-relationship-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Psychology and Digital Games: Digital Hunter-Gatherers</title>
+      <link>/publication/breuer-evolutionary-2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-evolutionary-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Playing for the thrill and skill. Quiz games as means for mood and competence repair</title>
+      <link>/publication/koban-playing-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/koban-playing-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serious Games in der Gesundheitskommunikation</title>
+      <link>/publication/breuer-serious-2017/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-serious-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why an Evolutionary Psychological Approach to Digital Games?</title>
+      <link>/publication/lange-1-2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lange-1-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Longitudinal Analysis of Gaming- and Non-Gaming-Related Friendships and Social Support among Social Online Game Players</title>
+      <link>/publication/domahidi-longitudinal-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/domahidi-longitudinal-2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A practical guide for transparency in psychological science</title>
@@ -27,15 +477,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/publication/breuer-blame-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolutionary Psychology and Digital Games: Digital Hunter-Gatherers</title>
-      <link>/publication/breuer-evolutionary-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/breuer-evolutionary-2018/</guid>
       <description></description>
     </item>
     
@@ -58,29 +499,11 @@
     </item>
     
     <item>
-      <title>Playing for the thrill and skill. Quiz games as means for mood and competence repair</title>
-      <link>/publication/koban-playing-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/koban-playing-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Video Games as Time Machines: Video Game Nostalgia and the Success of Retro Gaming</title>
       <link>/publication/wulf-video-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/publication/wulf-video-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Why an Evolutionary Psychological Approach to Digital Games?</title>
-      <link>/publication/lange-1-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/lange-1-2018/</guid>
       <description></description>
     </item>
     
@@ -139,15 +562,6 @@
     </item>
     
     <item>
-      <title>Serious Games in der Gesundheitskommunikation</title>
-      <link>/publication/breuer-serious-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/breuer-serious-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Relationship Between Use of Social Network Sites, Online Social Support, and Well-Being - Results From a Six-Wave Longitudinal Study</title>
       <link>/publication/utz-relationship-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
@@ -175,15 +589,6 @@
     </item>
     
     <item>
-      <title>A Longitudinal Analysis of Gaming- and Non-Gaming-Related Friendships and Social Support among Social Online Game Players</title>
-      <link>/publication/domahidi-longitudinal-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/domahidi-longitudinal-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data Management in Psychological Science: Specification of the DFG Guidelines</title>
       <link>/publication/schonbrodt-data-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
@@ -193,7 +598,7 @@
     </item>
     
     <item>
-      <title>Der Ernst des Spielens – Serious Games und (Digital) Game- Based Learning.</title>
+      <title>Der Ernst des Spielens – Serious Games und (Digital) Game-Based Learning</title>
       <link>/publication/breuer-ernst-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
@@ -207,15 +612,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
       <guid>/publication/utz-informational-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spielst Du noch oder lernst Du schon?</title>
-      <link>/publication/breuer-spielst-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/breuer-spielst-2016/</guid>
       <description></description>
     </item>
     
@@ -238,11 +634,29 @@
     </item>
     
     <item>
-      <title>Sexist games= sexist gamers? A longitudinal study on the relationship between video game use and sexist attitudes</title>
+      <title>Comparing Apples and Oranges? Evidence for Pace of Action as a Confound in Research on Digital Games and Aggression</title>
+      <link>/publication/elson-comparing-2013/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/elson-comparing-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sexist games = sexist gamers? A longitudinal study on the relationship between video game use and sexist attitudes</title>
       <link>/publication/breuer-sexist-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
       
       <guid>/publication/breuer-sexist-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sore Losers? A Reexamination of the Frustration–Aggression Hypothesis for Colocated Video Game Play</title>
+      <link>/publication/breuer-sore-2013/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-sore-2013/</guid>
       <description></description>
     </item>
     
@@ -310,7 +724,7 @@
     </item>
     
     <item>
-      <title>Press CRTT to Measure Aggressive Behavior: The Unstandardized Use of the Competitive Reaction Time Task in Aggression Research.</title>
+      <title>Press CRTT to Measure Aggressive Behavior: The Unstandardized Use of the Competitive Reaction Time Task in Aggression Research</title>
       <link>/publication/elson-press-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
@@ -328,15 +742,6 @@
     </item>
     
     <item>
-      <title>Comparing Apples and Oranges? Evidence for Pace of Action as a Confound in Research on Digital Games and Aggression.</title>
-      <link>/publication/elson-comparing-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/elson-comparing-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Digitale Spiele: Stabile Nutzung in einem dynamischen Markt</title>
       <link>/publication/quandt-digitale-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
@@ -346,7 +751,7 @@
     </item>
     
     <item>
-      <title>Isolated violence, isolated players, isolated aggression. The social realism of experimental research on digital games and aggression.</title>
+      <title>Isolated violence, isolated players, isolated aggression. The social realism of experimental research on digital games and aggression</title>
       <link>/publication/elson-isolated-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
       
@@ -355,20 +760,11 @@
     </item>
     
     <item>
-      <title>Public Awareness und Lernnutzen durch Anno 2070 &amp; Co. Von den Wirkungen digitaler Spiele auf das Umweltbewusstsein.</title>
+      <title>Public Awareness und Lernnutzen durch Anno 2070 &amp; Co. Von den Wirkungen digitaler Spiele auf das Umweltbewusstsein</title>
       <link>/publication/quandt-public-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
       
       <guid>/publication/quandt-public-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sore Losers? A Reexamination of the Frustration–Aggression Hypothesis for Colocated Video Game Play.</title>
-      <link>/publication/breuer-sore-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/breuer-sore-2013/</guid>
       <description></description>
     </item>
     
@@ -382,7 +778,7 @@
     </item>
     
     <item>
-      <title>Broccoli-coated chocolate? The educational potential of entertainment games.</title>
+      <title>Broccoli-coated chocolate? The educational potential of entertainment games</title>
       <link>/publication/breuer-broccoli-coated-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
@@ -391,7 +787,7 @@
     </item>
     
     <item>
-      <title>Digital war: An empirical analysis of narrative elements in military first-person shooters.</title>
+      <title>Digital war: An empirical analysis of narrative elements in military first-person shooters</title>
       <link>/publication/breuer-digital-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
@@ -409,7 +805,7 @@
     </item>
     
     <item>
-      <title>Exploring (digital) space - Der Einsatz von Unterhaltungsspielen in der Schule am Beispiel von Moonbase Alpha im Physikunterricht.</title>
+      <title>Exploring (digital) space - Der Einsatz von Unterhaltungsspielen in der Schule am Beispiel von Moonbase Alpha im Physikunterricht</title>
       <link>/publication/kroger-exploring-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
@@ -418,7 +814,7 @@
     </item>
     
     <item>
-      <title>Spielend lernen? Eine Bestandsaufnahme zum (Digital) Game- Based Learning.</title>
+      <title>Spielend lernen? Eine Bestandsaufnahme zum (Digital) Game- Based Learning</title>
       <link>/publication/breuer-spielend-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
@@ -427,7 +823,7 @@
     </item>
     
     <item>
-      <title>Measuring Playability. Entwicklung eines Instruments zur Evaluation von Computerspielen.</title>
+      <title>Measuring Playability. Entwicklung eines Instruments zur Evaluation von Computerspielen</title>
       <link>/publication/vohwinkel-measuring-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
       
@@ -436,7 +832,7 @@
     </item>
     
     <item>
-      <title>Spielen und Leben in virtuellen Welten. Forschungsergebnisse zur Nutzung von Online-Games.</title>
+      <title>Spielen und Leben in virtuellen Welten. Forschungsergebnisse zur Nutzung von Online-Games</title>
       <link>/publication/breuer-spielen-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
       
@@ -463,7 +859,7 @@
     </item>
     
     <item>
-      <title>Mittendrin statt nur dabei. Die Interaktivität des Dispositivs Computerspiel und ihre Auswirkungen auf die Spieler.</title>
+      <title>Mittendrin statt nur dabei. Die Interaktivität des Dispositivs Computerspiel und ihre Auswirkungen auf die Spieler</title>
       <link>/publication/breuer-mittendrin-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
       

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Johannes Breuer</title>
+    <title>Homes on Prof. Dr. Johannes Breuer</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Johannes Breuer</description>
+    <description>Recent content in Homes on Prof. Dr. Johannes Breuer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2024</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
@@ -36,7 +36,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Johannes Breuer is a senior researcher in the team Data Linking &amp;amp; Data Security at GESIS - Leibniz Institute for the Social Sciences (Department Data Archive). Before joining GESIS he worked in several projects investigating the use and effects of digital media at the Universities of Cologne, Hohenheim, and Münster, and the Leibniz-Institut für Wissensmedien (Knowledge Media Research Center) in Tübingen. He also taught classes in psychology and communication at both the graduate and undergraduate level.</description>
+      <description>Biography I am a professor of &amp;ldquo;Digital Social Science&amp;rdquo; at the University of Duisburg-Essen, Institute of Political Science and head of the team &amp;ldquo;Research Data &amp;amp; Methods&amp;rdquo; at the Center for Advanced Internet Studies (CAIS) in Bochum, Germany.
+My research focuses on the uses and effects of digital media, digital trace data, computational methods, data management, open science, and meta-science. I frequently give workshops on topics related to quantitative and computational research methods and the statistical programming language R, and have also taught classes in psychology, communication, and the social sciences at both the graduate and undergraduate level.</description>
     </item>
     
     <item>
@@ -117,8 +118,11 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>I will be giving the following workshops:
- Forschungsdaten selbst analysieren in R, GESIS Data Day, Jan 17, 2019 Data Wrangling &amp;amp; Exploration with the Tidyverse in R (together with Thomas Ebel), GESIS Mannheim, May 15-16, 2019  </description>
+      <description>Selected past workshops &amp;amp; seminars:
+ Collecting and Analyzing Social Media Data with R, seminar at University of Duisburg-Essen, summer term 2026.
+ Workflows for Reproducible Research with R &amp;amp; Git (online workshop with Bernd Weiss and Arnim Bleier), November 16-17, 2023.
+ Introduction to Sentiment Analysis: Potentials and limitations (online workshop together with Caio Mello and Gaurish Thakkar), July 10, 2023.
+ Automatic Sampling and Analysis of YouTube Data (online workshop together with Annika Deubel and M.</description>
     </item>
     
     <item>
@@ -137,6 +141,17 @@
       
       <guid>/home/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Notice</title>
+      <link>/home/privacy/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/home/privacy/</guid>
+      <description>Disclaimer: All the following information should be read as “to the best of my knowledge”. I am not a website expert. I can only tell you about my intentions and the measures I took to protect the privacy of visitors to my website.
+Collection of your personal information Nothing on this website requires you to identify yourself.
+The website does not use cookies. Note: Most web browsers allow you to control the handling of cookies.</description>
     </item>
     
   </channel>

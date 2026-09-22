@@ -1,174 +1,147 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Johannes Breuer on Johannes Breuer</title>
+    <title>Prof. Dr. Johannes Breuer on Prof. Dr. Johannes Breuer</title>
     <link>/</link>
-    <description>Recent content in Johannes Breuer on Johannes Breuer</description>
+    <description>Recent content in Prof. Dr. Johannes Breuer on Prof. Dr. Johannes Breuer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2024</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Page</title>
-      <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      <title>Improving Computational Reproducibility in the Social Sciences</title>
+      <link>/publication/reiss-improving-2026/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0200</pubDate>
       
-      <guid>/tutorial/example/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A practical guide for transparency in psychological science</title>
-      <link>/publication/klein-practical-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/klein-practical-2018/</guid>
+      <guid>/publication/reiss-improving-2026/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Blame the Players, Don’t Blame the Games: Why We Should Worry Less About Sexist Video Game Content and Focus More on Interactions Between Players</title>
-      <link>/publication/breuer-blame-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <title>Investigating the Analytical Robustness of the Social and Behavioural Sciences</title>
+      <link>/publication/aczel-investigating-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0200</pubDate>
       
-      <guid>/publication/breuer-blame-2018/</guid>
+      <guid>/publication/aczel-investigating-2026/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Evolutionary Psychology and Digital Games: Digital Hunter-Gatherers</title>
-      <link>/publication/breuer-evolutionary-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <title>Election Research in the Age of Regulated Data Access under the EU Digital Services Act</title>
+      <link>/publication/darius-election-2026/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0100</pubDate>
       
-      <guid>/publication/breuer-evolutionary-2018/</guid>
+      <guid>/publication/darius-election-2026/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Grenzen von &#34;Serious Games for Health&#34;</title>
-      <link>/publication/breuer-grenzen-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <title>Projekt Wi4impact: Wissen wie Wissen wirkt im Kontext der Digitalisierung</title>
+      <link>/publication/voigt-projekt-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0100</pubDate>
       
-      <guid>/publication/breuer-grenzen-2018/</guid>
+      <guid>/publication/voigt-projekt-2026/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Once upon a game: Exploring video game nostalgia and its impact on well-being</title>
-      <link>/publication/wulf-once-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <title>Contextual Changes, Credible Conclusions? A Direct and Conceptual Replication of Shen et al.&#39;s (2019) Study on Online Image Credibility</title>
+      <link>/publication/haim-contextual-2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0100</pubDate>
       
-      <guid>/publication/wulf-once-2018/</guid>
+      <guid>/publication/haim-contextual-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Playing for the thrill and skill. Quiz games as means for mood and competence repair</title>
-      <link>/publication/koban-playing-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <title>Radical right populism and the media: evidence from the supply side and demand side of political information in Germany</title>
+      <link>/publication/stier-radical-2025/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0100</pubDate>
       
-      <guid>/publication/koban-playing-2018/</guid>
+      <guid>/publication/stier-radical-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Video Games as Time Machines: Video Game Nostalgia and the Success of Retro Gaming</title>
-      <link>/publication/wulf-video-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <title>Let’s talk about language—and its role for replicability</title>
+      <link>/publication/schmalz-language-2025/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0100</pubDate>
       
-      <guid>/publication/wulf-video-2018/</guid>
+      <guid>/publication/schmalz-language-2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Why an Evolutionary Psychological Approach to Digital Games?</title>
-      <link>/publication/lange-1-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <title>Asking for Traces: A Vignette Study on Acceptability Norms and Personal Willingness to Donate Digital Trace Data</title>
+      <link>/publication/silber-asking-2024/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0100</pubDate>
       
-      <guid>/publication/lange-1-2018/</guid>
+      <guid>/publication/silber-asking-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>You Learn What You Play</title>
-      <link>/publication/breuer-13-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <title>&#39;Don’t research us&#39; — How Mastodon instance rules connect to research ethics</title>
+      <link>/publication/wahner-mastodon-2024/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0200</pubDate>
       
-      <guid>/publication/breuer-13-2018/</guid>
+      <guid>/publication/wahner-mastodon-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Culture &#43; 1 – Digitale Spiele und Kulturelle Bildung</title>
-      <link>/publication/breuer-culture-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>Key topic or bare necessity? How Research Ethics are Addressed and Discussed in Computational Communication Science</title>
+      <link>/publication/knopfle-ethics-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0200</pubDate>
       
-      <guid>/publication/breuer-culture-2017/</guid>
+      <guid>/publication/knopfle-ethics-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>Are We Replicating Yet? Reproduction and Replication in Communication Research</title>
+      <link>/publication/breuer-replicating-2024/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0200</pubDate>
       
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Frustration–Aggression Theory</title>
-      <link>/publication/breuer-frustrationaggression-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/breuer-frustrationaggression-2017/</guid>
+      <guid>/publication/breuer-replicating-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hate Speech in Online Games</title>
-      <link>/publication/breuer-hate-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>Between urgency and data quality: assessing the FAIRness of data in social science research on the COVID-19 pandemic</title>
+      <link>/publication/batzdorfer-urgency-2024/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0200</pubDate>
       
-      <guid>/publication/breuer-hate-2017/</guid>
+      <guid>/publication/batzdorfer-urgency-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neue Publikationsformate zu offenen Infrastrukturen und Ressourcen für die Kommunikations- und Medienforschung: Ein Erfahrungsbericht [New publication formats on open infrastructures and resources for communication and media research: A field report]</title>
+      <link>/publication/strippel-neue-2023/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/strippel-neue-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Einführung: Digitalisierungsforschung. Ein Einblick in die Bandbreite der Forschung zu und mit digitalen Daten [Introduction: Digitalization Research. An insight into the range of research on and with digital data]</title>
+      <link>/publication/kohne-einblick-2023/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kohne-einblick-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting the AI into social science – How artificial intelligence tools are changing and challenging research in the social sciences</title>
+      <link>/publication/breuer-putting-2023/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-putting-2023/</guid>
       <description></description>
     </item>
     

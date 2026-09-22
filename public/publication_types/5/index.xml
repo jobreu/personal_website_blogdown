@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>5 on Johannes Breuer</title>
+    <title>5 on Prof. Dr. Johannes Breuer</title>
     <link>/publication_types/5/</link>
-    <description>Recent content in 5 on Johannes Breuer</description>
+    <description>Recent content in 5 on Prof. Dr. Johannes Breuer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Evolutionary Psychology and Digital Games: Digital Hunter-Gatherers</title>
       <link>/publication/breuer-evolutionary-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/publication/breuer-evolutionary-2018/</guid>
       <description></description>
@@ -40,16 +40,7 @@
     </item>
     
     <item>
-      <title>Spielst Du noch oder lernst Du schon?</title>
-      <link>/publication/breuer-spielst-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/breuer-spielst-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spielend lernen? Eine Bestandsaufnahme zum (Digital) Game- Based Learning.</title>
+      <title>Spielend lernen? Eine Bestandsaufnahme zum (Digital) Game- Based Learning</title>
       <link>/publication/breuer-spielend-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       

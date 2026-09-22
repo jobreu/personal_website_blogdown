@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Johannes Breuer</title>
+    <title>Publication_types on Prof. Dr. Johannes Breuer</title>
     <link>/publication_types/</link>
-    <description>Recent content in Publication_types on Johannes Breuer</description>
+    <description>Recent content in Publication_types on Prof. Dr. Johannes Breuer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>2</title>
       <link>/publication_types/2/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0200</pubDate>
       
       <guid>/publication_types/2/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>5</title>
       <link>/publication_types/5/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/publication_types/5/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>6</title>
       <link>/publication_types/6/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0100</pubDate>
       
       <guid>/publication_types/6/</guid>
       <description></description>

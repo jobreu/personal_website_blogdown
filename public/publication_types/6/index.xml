@@ -1,16 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>6 on Johannes Breuer</title>
+    <title>6 on Prof. Dr. Johannes Breuer</title>
     <link>/publication_types/6/</link>
-    <description>Recent content in 6 on Johannes Breuer</description>
+    <description>Recent content in 6 on Prof. Dr. Johannes Breuer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projekt Wi4impact: Wissen wie Wissen wirkt im Kontext der Digitalisierung</title>
+      <link>/publication/voigt-projekt-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/voigt-projekt-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting the AI into social science – How artificial intelligence tools are changing and challenging research in the social sciences</title>
+      <link>/publication/breuer-putting-2023/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-putting-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Participants in Online Privacy Research: Ethical and Practical Consideration</title>
+      <link>/publication/breuer-participants-2023/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/breuer-participants-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using YouTube data for social science research</title>
+      <link>/publication/breuer-using-2023/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-using-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>www - Die Funktionen des Internets für die Wissenschaft [www - The functions of the internet for science]</title>
+      <link>/publication/breuer-www-2022/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-www-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content Analysis in the Research Field of Video Games</title>
+      <link>/publication/wulf-content-2022/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/wulf-content-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bedeutet mehr Feedback auch mehr lernen? Die Wirkung von erweitertem und korrigierendem Feedback in einem digitalen Quizspiel auf die Lernleistung [Does more education also mean more learning? The effect of corrective feedback in a digital quiz game on learning performance]</title>
+      <link>/publication/ruth-bedeutet-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ruth-bedeutet-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serious Games in der Gesundheitskommunikation</title>
+      <link>/publication/breuer-serious-2017/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-serious-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why an Evolutionary Psychological Approach to Digital Games?</title>
+      <link>/publication/lange-1-2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lange-1-2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blame the Players, Don’t Blame the Games: Why We Should Worry Less About Sexist Video Game Content and Focus More on Interactions Between Players</title>
@@ -18,6 +99,24 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/publication/breuer-blame-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You Learn What You Play</title>
+      <link>/publication/breuer-13-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-13-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frustration–Aggression Theory</title>
+      <link>/publication/breuer-frustrationaggression-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-frustrationaggression-2017/</guid>
       <description></description>
     </item>
     
@@ -40,6 +139,15 @@
     </item>
     
     <item>
+      <title>R (Software)</title>
+      <link>/publication/breuer-r-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/breuer-r-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Women are from FarmVille, Men are from ViceCity: The cycle of exclusion and sexism in video game content and culture</title>
       <link>/publication/kowert-women-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
@@ -54,6 +162,15 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
       <guid>/publication/breuer-wer-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Know Thy Player: An Integrated Model of Player Experience for Digital Games Research</title>
+      <link>/publication/elson-know-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/elson-know-2014/</guid>
       <description></description>
     </item>
     
@@ -76,7 +193,7 @@
     </item>
     
     <item>
-      <title>Isolated violence, isolated players, isolated aggression. The social realism of experimental research on digital games and aggression.</title>
+      <title>Isolated violence, isolated players, isolated aggression. The social realism of experimental research on digital games and aggression</title>
       <link>/publication/elson-isolated-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
       
@@ -85,7 +202,7 @@
     </item>
     
     <item>
-      <title>Public Awareness und Lernnutzen durch Anno 2070 &amp; Co. Von den Wirkungen digitaler Spiele auf das Umweltbewusstsein.</title>
+      <title>Public Awareness und Lernnutzen durch Anno 2070 &amp; Co. Von den Wirkungen digitaler Spiele auf das Umweltbewusstsein</title>
       <link>/publication/quandt-public-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
       
@@ -103,7 +220,7 @@
     </item>
     
     <item>
-      <title>Broccoli-coated chocolate? The educational potential of entertainment games.</title>
+      <title>Broccoli-coated chocolate? The educational potential of entertainment games</title>
       <link>/publication/breuer-broccoli-coated-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
@@ -112,7 +229,7 @@
     </item>
     
     <item>
-      <title>Exploring (digital) space - Der Einsatz von Unterhaltungsspielen in der Schule am Beispiel von Moonbase Alpha im Physikunterricht.</title>
+      <title>Exploring (digital) space - Der Einsatz von Unterhaltungsspielen in der Schule am Beispiel von Moonbase Alpha im Physikunterricht</title>
       <link>/publication/kroger-exploring-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
@@ -121,7 +238,7 @@
     </item>
     
     <item>
-      <title>Measuring Playability. Entwicklung eines Instruments zur Evaluation von Computerspielen.</title>
+      <title>Measuring Playability. Entwicklung eines Instruments zur Evaluation von Computerspielen</title>
       <link>/publication/vohwinkel-measuring-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
       
@@ -130,7 +247,7 @@
     </item>
     
     <item>
-      <title>Spielen und Leben in virtuellen Welten. Forschungsergebnisse zur Nutzung von Online-Games.</title>
+      <title>Spielen und Leben in virtuellen Welten. Forschungsergebnisse zur Nutzung von Online-Games</title>
       <link>/publication/breuer-spielen-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
       
@@ -139,7 +256,16 @@
     </item>
     
     <item>
-      <title>Mittendrin statt nur dabei. Die Interaktivität des Dispositivs Computerspiel und ihre Auswirkungen auf die Spieler.</title>
+      <title>Making the implicit explicit. Embedded measurement in serious games</title>
+      <link>/publication/bente-making-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bente-making-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mittendrin statt nur dabei. Die Interaktivität des Dispositivs Computerspiel und ihre Auswirkungen auf die Spieler</title>
       <link>/publication/breuer-mittendrin-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
       
