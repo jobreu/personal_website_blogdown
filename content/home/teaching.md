@@ -15,6 +15,8 @@ weight = 60
 
 **Selected past workshops & seminars:**
 
+- [*Collecting and Analyzing Social Media Data with R*](https://jobreu.github.io/social-media-data-r/), seminar at University of Duisburg-Essen, summer term 2026.
+
 - [*Workflows for Reproducible Research with R & Git*](https://github.com/jobreu/reproducible-research-gesis-2023) (online workshop with Bernd Weiss and Arnim Bleier), November 16-17, 2023.
 
 - [*Introduction to Sentiment Analysis: Potentials and limitations*](https://github.com/CAIS-Research/Introduction-to-SA-Training-CAIS) (online workshop together with Caio Mello and Gaurish Thakkar), July 10, 2023.
@@ -25,10 +27,4 @@ weight = 60
 
 - [*Introduction to R for Data Analysis*](https://github.com/StefanJuenger/r-intro-gesis-2022) (online workshop together with Stefan Jünger and Veronika Batzdorfer), GESIS Summer School in Survey Methodology, August 15-19, 2022.
 
-- [*Linking Twitter & Survey data*](https://github.com/jobreu/twitter-linking-workshop-2022) (online workshop together with Luke Sloan and Libby Bishop), June 27, 2022.
-
-- [*Reproducible research practices for psychologists*](https://github.com/crsh/reproducible-research-practices-workshop) (together with Frederik Aust), Leuven, April 27-28, 2022.
-
-- [*Ethische Fragen in der Forschung mit digitalen Spurdaten* (Ethical questions in research with digital trace data)](https://zenodo.org/record/5888912), January 21, 2022.
-
-- [*Digitale Mediennutzung und Data Literacy* (Digital Media Use and Data Literacy)](https://github.com/jobreu/data-literacy-seminar-21-22) (online seminar), Heinrich-Heine-University Düsseldorf, winter term 2021-2022.
+- [*Digitale Mediennutzung und Data Literacy* (Digital Media Use and Data Literacy)](https://github.com/jobreu/data-literacy-seminar-21-22), online seminar at Heinrich-Heine-University Düsseldorf, winter term 2021-2022.
